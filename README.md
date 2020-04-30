@@ -1,2 +1,2 @@
 # LearnTypeScript
-learing typescript 
+summary 
