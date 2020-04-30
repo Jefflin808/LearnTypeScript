@@ -1,0 +1,13 @@
+{
+    "include": [
+        "wwwroot/ts/**/*.ts"
+    ],
+    "exclude": [
+        "**/node_modules"
+    ]
+}
+
+//* matches a single name
+//** matches any path. In our case, there is a single pattern that selects all files contained in wwwroot/ts and in all
+//its subdirectories(because of the **), whose extension is .ts. 
+
